@@ -1,5 +1,4 @@
 import SimpleInput from "./components/SimpleInput";
-import BasicForm from "./components/BasicForm";
 import React from "react";
 
 function App() {
